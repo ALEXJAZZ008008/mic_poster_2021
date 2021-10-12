@@ -51,7 +51,7 @@
 }
 
 \DeclareOptionX{misc}{
-	\setlength{\uclposter@bannerheight}{10cm}
+	\setlength{\uclposter@bannerheight}{11cm}
 }
 
 \DeclareOptionX{bannerheight}{
